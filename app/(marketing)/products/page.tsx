@@ -64,7 +64,7 @@ export default function ProductsPage() {
           transition={{ duration: 0.6 }}
           className="text-center mb-12"
         >
-          <Badge variant="cyan" className="mb-4">Store</Badge>
+          <Badge variant="default" className="mb-4">Store</Badge>
           <h1 className="font-display text-4xl sm:text-5xl font-bold text-white mb-4">
             Product <span className="text-cyan-glow">Catalog</span>
           </h1>
