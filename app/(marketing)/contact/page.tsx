@@ -60,7 +60,7 @@ export default function ContactPage() {
           transition={{ duration: 0.8 }}
           className="text-center mb-16"
         >
-          <Badge variant="cyan" className="mb-4">Contact</Badge>
+          <Badge variant="default" className="mb-4">Contact</Badge>
           <h1 className="font-display text-4xl sm:text-5xl font-bold text-white mb-4">
             Let's <span className="text-cyan-glow">Connect</span>
           </h1>
